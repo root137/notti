@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216972667541",
+    "project_id": "notti-1e08a",
+    "storage_bucket": "notti-1e08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216972667541:android:83fa17375f62c9dd17099c",
+        "android_client_info": {
+          "package_name": "com.shady.notti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKs9JnqzDY_egJJgelmfLp3LyI2DrwHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
